@@ -1,2 +1,13 @@
-# Tutorial-Short-time-river-level-prediction-using-LSTM
-Tutorial Short-time river level prediction using LSTM
+# [Tutorial] LSTM을 이용한 단시간 하천 수위 예측
+
+
+## 1. 데이터 수집
+  - WAMIS에서 제공중인 OpenAPI를 이용하여 수위 및 강우데이터를 수집
+  - 대상지역은 남양주시 진관교로 선정 후, 관련 관측데이터를 수집
+  
+## 2. LSTM(Long Short Term Memory)
+  - LSTM은 RNN의 특별한 한 종류로, 긴 의존 기간을 필요로 하는 학습을 수행할 능력을 갖고 있다. LSTM은 Hochreiter & Schmidhuber (1997)에 의해 소개되었고, 그 후에 여러 추후 연구로 계속 발전하고 유명해졌다. LSTM은 여러 분야의 문제를 굉장히 잘 해결했고, 지금도 널리 사용되고 있다.
+
+## 3. Tutoral 주요 내용
+  - 딥러닝 알고리즘을 이용하기 위한 시계열 데이터 전처리
+  - LSTM 모형 훈련 및 예측
