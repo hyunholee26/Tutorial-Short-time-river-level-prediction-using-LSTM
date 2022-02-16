@@ -1,0 +1,11 @@
+name: tutorial-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - tensorflow=1.15.2
+  - matplotlib
+  - keras
+  
