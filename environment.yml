@@ -8,4 +8,4 @@ dependencies:
   - tensorflow<2.0
   - matplotlib
   - keras
-  
+  - missingno
