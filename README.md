@@ -1,4 +1,5 @@
 # [Tutorial] LSTM을 이용한 단시간 하천 수위 예측
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyunholee26/Tutorial-Short-time-river-level-prediction-using-LSTM/HEAD)
 
 ## 1. 데이터 수집
   - WAMIS에서 제공중인 OpenAPI를 이용하여 수위 및 강우데이터를 수집하여 데이터셋 제공
