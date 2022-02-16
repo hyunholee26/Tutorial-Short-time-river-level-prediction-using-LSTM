@@ -1,7 +1,6 @@
 name: tutorial-environment
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - numpy
   - pandas
